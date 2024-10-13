@@ -1,11 +1,13 @@
 <script setup>
-import TheWelcome from './components/TheWelcome.vue';
+import TaskManager from './components/TaskManager.vue';
+
+
 </script>
 
 <template>
  
   <main>
-    <TheWelcome />
+    <TaskManager/>
   </main>
 </template>
 
